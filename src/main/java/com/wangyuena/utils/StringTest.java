@@ -13,7 +13,7 @@ public class StringTest {
 		ss.isNumber();
 	}
 /**
- * 判断是否是控制
+ * 判断是否是空值
  */
 	protected void hasText() {
 		System.out.println("请输入字符串：");
